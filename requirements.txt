@@ -1,6 +1,2 @@
-fastai==2.4
-pillow<7
-packaging
+fastbook 
 voila
-fastbook
-ipywidgets==7.6.3
